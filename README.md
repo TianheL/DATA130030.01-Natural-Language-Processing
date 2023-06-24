@@ -23,4 +23,4 @@ This is a repository including all my projects in 2023 Spring Natural Language P
 2) Option 2&3: Commonsense Validation and Explanation
 3) Option 4: Fake News Challenge
 4) You are free to choose other tasks related to natural language processing if you are not interested in the above tasks.
-5) We choose option4, and propose a two stage model which use extractive summarization technique based on Sentence-BERT and two Roberta model combining hand-crafted feature.
+5) We choose option4, and propose a two stage model which use extractive summarization technique based on Sentence-BERT and two Roberta models combining hand-crafted feature.
